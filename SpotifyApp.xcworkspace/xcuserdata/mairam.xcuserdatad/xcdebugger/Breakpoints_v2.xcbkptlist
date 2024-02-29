@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5F27FAA7-2C09-4AE8-B1E0-408F4E31CC4D"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81F226AE-3D55-4779-9C7F-25091949D06E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyApp/Views/SearchViews/SearchResultsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD6EE76E-A9E3-428C-B38F-09F2BF619BCF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SpotifyApp/Views/MainViews/MainViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "songsCollectionView"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "AD6EE76E-A9E3-428C-B38F-09F2BF619BCF - 42ba4cc7f65696bc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UICollectionView in variable initialization expression of SpotifyApp.MainViewController.songsCollectionView : __C.UICollectionView"
+                  moduleName = "SpotifyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mairam/Desktop/Desktop%20-%20A%E2%80%99s%20MacBook%20Pro/SwiftProjects/SpotifyApp/SpotifyApp/Views/MainViews/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "AD6EE76E-A9E3-428C-B38F-09F2BF619BCF - 3959647070ab66b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyApp.MainViewController.songsCollectionView.getter : __C.UICollectionView"
+                  moduleName = "SpotifyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mairam/Desktop/Desktop%20-%20A%E2%80%99s%20MacBook%20Pro/SwiftProjects/SpotifyApp/SpotifyApp/Views/MainViews/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "AD6EE76E-A9E3-428C-B38F-09F2BF619BCF - 429c4cbf5cd21cb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyApp.MainViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; SpotifyApp.MainViewController"
+                  moduleName = "SpotifyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mairam/Desktop/Desktop%20-%20A%E2%80%99s%20MacBook%20Pro/SwiftProjects/SpotifyApp/SpotifyApp/Views/MainViews/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "664">
+               </Location>
+               <Location
+                  uuid = "AD6EE76E-A9E3-428C-B38F-09F2BF619BCF - dec686f1d0e647a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SpotifyApp.MainViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;SpotifyApp.MainViewController&gt;"
+                  moduleName = "SpotifyApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mairam/Desktop/Desktop%20-%20A%E2%80%99s%20MacBook%20Pro/SwiftProjects/SpotifyApp/SpotifyApp/Views/MainViews/MainViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "636">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
